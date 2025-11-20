@@ -11,3 +11,5 @@ memory.json
 
 # Optional local config overrides
 config.local.json
+package.json
+package-lock.json
