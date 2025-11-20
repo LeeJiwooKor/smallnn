@@ -13,3 +13,4 @@ memory.json
 config.local.json
 package.json
 package-lock.json
+data.py
