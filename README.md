@@ -35,8 +35,8 @@ This project allows you to **train a small neural network** and **run it interac
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/LeeJiwooKor/smallnn
+cd smallnn
 ```
 
 2. Install Node.js dependencies (if any; currently none required):
