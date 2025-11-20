@@ -30,7 +30,13 @@ This project allows you to **train a small neural network** and **run it interac
 
 ---
 
-## Installation
+## Intallation
+
+```bash
+npm install smallnn
+```
+
+## Installation with Git
 
 1. Clone the repository:
 
