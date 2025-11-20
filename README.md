@@ -25,8 +25,6 @@ This project allows you to **train a small neural network** and **run it interac
 | `.gitignore` | Ignore local data and node modules |
 | `package.json` | Project metadata and scripts |
 
-> **Generated files (do NOT commit)**:  
-> `trainingData.json`, `net.json`, `memory.json`
 
 ---
 
